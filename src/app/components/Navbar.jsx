@@ -18,13 +18,6 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <h1 className="text-2xl font-extrabold bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-transparent bg-clip-text tracking-wide">
-          <Image 
-          src="/logo.jpeg"
-          alt="logo"
-          width={40}
-          height={40}
-         />
-
         </h1>
 
         {/* Desktop Menu */}
