@@ -41,6 +41,7 @@ export default function AboutSection() {
               went on to acquire my BSME from the University of the State of
               New York.
             </p>
+            <br/>
 
             <p>
               I'm professionally experienced in both Ultra-deepwater and
