@@ -50,7 +50,7 @@ export default function AboutSection() {
               pipeline installation, and maintenance of complex mechanical
               systems to ensure safety and efficiency.
 
-              I've also worked as a Manufacturing Engineer at Tesla Groups : This role at Tesla focuses on installing and commissioning production lines for high-volume manufacturing, 
+              I'm currently working as a Manufacturing Engineer at Tesla Groups : This role at Tesla focuses on installing and commissioning production lines for high-volume manufacturing, 
               ensuring quality targets, and developing quality control plans.
             </p>
 
