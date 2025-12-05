@@ -66,6 +66,7 @@ export default function AboutSection() {
               Northeastern Electric Racing (FSAE), where he delivered the 2017
               competition chassis and developed strong skills in mechanical
               design, fabrication, project management, and leadership.
+              I've decided to stop working at the rig and I'm now looking forward to my work at Tesla Manufacturing Facility in Adelaide, Australia
             </p>
 
             <p>
