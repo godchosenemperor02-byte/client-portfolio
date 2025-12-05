@@ -16,7 +16,7 @@ export default function Projects({ projects }) {
             Jason Eirik McCallister
           </h3>
           <p className="text-gray-400 max-w-2xl mx-auto text-center">
-            Mechanical Engineer • Offshore Rig Specialist • Project Leader
+            Manufacturing engineer at tesla groups.
           </p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 mt-6">
