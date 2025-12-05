@@ -60,8 +60,8 @@ export default function ResumePage() {
             Jason Eirik McCallister
           </h3>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Mechanical Engineer • Offshore Rig Specialist • Project Leader
-          </p>
+            Manufacturing engineer at tesla groups.
+      </p>
         </div>
 
         {/* Summary */}
